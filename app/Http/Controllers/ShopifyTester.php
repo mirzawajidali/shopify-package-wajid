@@ -22,6 +22,8 @@ class ShopifyTester extends Controller
         //To Get Token and Shop
         //Shopify::get(table,userid);
 
+        //To Call Shopify Api
+        //Shopify::call(token,shop,endpoint,array,action);
 
     }
 }
